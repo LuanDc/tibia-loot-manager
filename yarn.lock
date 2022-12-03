@@ -2448,6 +2448,11 @@ parse-json@^5.2.0:
     json-parse-even-better-errors "^2.3.0"
     lines-and-columns "^1.1.6"
 
+parse-tibia-analyser@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/parse-tibia-analyser/-/parse-tibia-analyser-2.0.0.tgz#6bb1d61f8ebbab579a5ba83ad44106632fa5115e"
+  integrity sha512-Jh8jsCvlZMPzTZgx6g2I3U/FM0CO7QrcHstDljT3BdAW9i+R3TqQoGTADMIwbYgK1g8LChE4TvM2DcvsdGkbbQ==
+
 path-exists@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/path-exists/-/path-exists-4.0.0.tgz#513bdbe2d3b95d7762e8c1137efa195c6c61b5b3"
