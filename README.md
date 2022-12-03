@@ -1,0 +1,1 @@
+# tibia-loot-manager
