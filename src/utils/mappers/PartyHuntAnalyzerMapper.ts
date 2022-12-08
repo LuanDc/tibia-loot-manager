@@ -10,7 +10,7 @@ export class PartyHuntAnalyzerMapper implements IPartyHuntAnalyzerMapper {
   public map(party_analyzer_output: string): IMappedPartyHunt {
     try {
       const trimmed_party_hunt_analyzer_output = party_analyzer_output.trim();
-
+      console.log("test")
       const {
         startedAt,
         finishedAt,
